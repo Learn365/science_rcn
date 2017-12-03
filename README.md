@@ -79,3 +79,10 @@ MNIST datasets
 ## MNIST licensing
 
 Yann LeCun (Courant Institute, NYU) and Corinna Cortes (Google Labs, New York) hold the copyright of MNIST dataset, which is a derivative work from original NIST datasets. MNIST dataset is made available under the terms of the Creative Commons Attribution-Share Alike 3.0 license.
+
+## Comments
+* zhihu: <https://www.zhihu.com/question/67267502/answer/252270127>
+* 360doc: <http://www.360doc.com/content/17/1030/09/32196507_699349879.shtml>
+* Heart of Machine: <http://baijiahao.baidu.com/s?id=1582383836892441840&wfr=spider&for=pc>
+* baidu-xueshu: <http://xueshu.baidu.com/s?wd=paperuri:(6238b7ddf0555d751f087f1960157706)&filter=sc_long_sign&sc_ks_para=q%3DA+generative+vision+model+that+trains+with+high+data+efficiency+and+breaks+text-based+CAPTCHAs&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=5672110374886314633>
+* ncbi: <https://www.ncbi.nlm.nih.gov/m/pubmed/29074582/>
